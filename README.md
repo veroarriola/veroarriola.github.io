@@ -1,2 +1,3 @@
-# veroarriola.github.io
-Sitio de github
+# Material didáctico
+
+[Inteligencia Artificial](/IA/)
