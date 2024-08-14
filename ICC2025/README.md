@@ -1,11 +1,11 @@
 # Introducción a Ciencias de la Computación
 
-* [1.1 Ciencias de la Computació](/ICC2025/1_1%20CienciasDeLaComputacion.pdf)
+* [1.1 Ciencias de la Computación](/ICC2025/1_1%20CienciasDeLaComputacion.pdf)
 
 Proximamente:
 
 * [1.2 Lenguajes de Programación](/ICC2024-II/1_2%20LenguajesDeProgramacion.pdf)
-* [1.3 Historia](/ICC2024-II/1_3 Historia.pdf)
+* [1.3 Historia](/ICC2024-II/1_3%20Historia.pdf)
 * [1.4 Arquitecturas](/ICC2024-II/1_4 Arquitecturas.pdf)
 * [2 Algoritmos](/ICC2024-II/2 Algoritmos.pdf)
 * [3.1 Introducción a la Programación](/ICC2024-II/3_1 IntroProgramacionElementos.pdf)
