@@ -8,4 +8,7 @@
 * [3.2 AnalisisAsintotico](/ED2025/3_2%20AnalisisAsintotico.pdf)
 * [3.3 Relaciones de recurrencia](/ED2025/CS%203_3%20RelacionesDeRecurrencia.pdf)
 * [4.1 Correctez](/ED2025/CS%204_1%20Correctez.pdf)
+* [5.1 Recursión](/ED2025/CS%205_1%20Recursion.pdf)
+* [6.1 Arreglos](/ED2025/CS%206_1%20Arreglos.pdf)
+* [G.1 Genéricos](/ED2025/CS%20G_1%20Genéricos.pdf)
 
