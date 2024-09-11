@@ -8,4 +8,6 @@
 * [3.1 ROS2 y RViz](/RM2025/3_1%20ROS2RViz.pdf)
 * [3.1 ROS2 y RViz C++](/RM2025/3_1%20ROS2RVizCpp.pdf)
 * [4.1 Motores](/RM2025/4_1%20Motores_presentacion.pdf)
+* [4.2 Mecánica](/RM2025/4_2%20Mecánica_presentacion.pdf)
+* [4.3 Cuaterniones](/RM2025/4_3%20Cuaterniones_presentacion.pdf)
 
