@@ -11,4 +11,8 @@
 * [5.1 Recursión](/ED2025/CS%205_1%20Recursion.pdf)
 * [6.1 Arreglos](/ED2025/CS%206_1%20Arreglos.pdf)
 * [G.1 Genéricos](/ED2025/CS%20G_1%20Genéricos.pdf)
+* [7.1 Colecciones](/ED2025/CS%207_1%20Colecciones.pdf)
+* [7.2 Pilas y colas](/ED2025/CS%207_2%20PilasYColas.pdf)
+* [7.3 Listas](/ED2025/CS%207_3%20Listas.pdf)
+* [7.4 Listas y recursividad]((/ED2025/CS%207_4%20ListasRecursividad.pdf)
 
