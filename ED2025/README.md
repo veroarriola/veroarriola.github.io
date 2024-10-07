@@ -14,5 +14,6 @@
 * [7.1 Colecciones](/ED2025/CS%207_1%20Colecciones.pdf)
 * [7.2 Pilas y colas](/ED2025/CS%207_2%20PilasYColas.pdf)
 * [7.3 Listas](/ED2025/CS%207_3%20Listas.pdf)
-* [7.4 Listas y recursividad]((/ED2025/CS%207_4%20ListasRecursividad.pdf)
+* [7.4 Listas y recursividad](/ED2025/CS%207_4%20ListasRecursividad.pdf)
+* [8.1 Árboles](/ED2025/CS%208_1%20Arboles.pdf)
 
