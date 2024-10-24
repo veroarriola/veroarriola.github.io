@@ -14,4 +14,4 @@
 * [4.5 Ecuaciones de movimiento para la Kobuki](/RM2025/4_5%20EcuacionesDeMovimientoKobuki_presentacion.pdf)
 * [5.1 Gazebo](/RM2025/5_1%20Gazebo_presentacion.pdf)
 * [5.2 Cuaterniones](/RM2025/5_2%20Cuaterniones_presentacion.pdf)
-
+* [6.1 CamposPotenciales](/RM2025/6_1%20CamposPotenciales_presentacion.pdf)
