@@ -16,4 +16,5 @@
 * [7.3 Listas](/ED2025/CS%207_3%20Listas.pdf)
 * [7.4 Listas y recursividad](/ED2025/CS%207_4%20ListasRecursividad.pdf)
 * [8.1 Árboles](/ED2025/CS%208_1%20Arboles.pdf)
-
+* [10.1 Ordenamientos basados en comparaciones](/ED2025/CS%2010_1%20OrdenamientosComparaciones.pdf)
+* [12 C# vs Java](/ED2025/CS%2012%20CSharpVsJava.pdf)
