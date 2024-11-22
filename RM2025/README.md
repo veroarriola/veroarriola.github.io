@@ -8,6 +8,10 @@
 * [3.1 ROS2 y RViz](/RM2025/3_1%20ROS2RViz.pdf)
 * [3.1 ROS2 y RViz C++](/RM2025/3_1%20ROS2RVizCpp.pdf)
 * [4.1 Motores](/RM2025/4_1%20Motores_presentacion.pdf)
-* [4.2 Mecánica](/RM2025/4_2%20Mecánica_presentacion.pdf)
-* [4.3 Cuaterniones](/RM2025/4_3%20Cuaterniones_presentacion.pdf)
-
+* [4.2 Repaso de matemáticas](/RM2025/4_2%20RepasoMatemáticas_presentacion.pdf)
+* [4.3 Mecánica](/RM2025/4_3%20Mecánica_presentacion.pdf)
+* [4.4 Denavit Hartenberg](/RM2025/4_4%20DenavitHartenberg_presentacion.pdf)
+* [4.5 Ecuaciones de movimiento para la Kobuki](/RM2025/4_5%20EcuacionesDeMovimientoKobuki_presentacion.pdf)
+* [5.1 Gazebo](/RM2025/5_1%20Gazebo_presentacion.pdf)
+* [5.2 Cuaterniones](/RM2025/5_2%20Cuaterniones_presentacion.pdf)
+* [6.1 CamposPotenciales](/RM2025/6_1%20CamposPotenciales_presentacion.pdf)
