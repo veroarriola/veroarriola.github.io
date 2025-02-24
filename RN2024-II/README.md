@@ -24,7 +24,7 @@
 * [9.3 Transformadores](/RN2024-II/9_3%20Transformadores.pdf)
 * [10.1 Redes de Hopfield](/RN2024-II/10_1%20Redes%20de%20Hopfield.pdf)
 * [10.2 Maquinas de Boltzman](/RN2024-II/10_2%20Maquinas%20de%20Boltzman.pdf)
-* [10.3 Autocodificador Variacional]10_3%20Autocodificador%20Variacional.pdf)
+* [10.3 Autocodificador Variacional](/RN2024-II/10_3%20Autocodificador%20Variacional.pdf)
 * [11 Redes sobre gráficas](/RN2024-II/11%20Redes%20sobre%20gráficas.pdf)
 * [12 Redes adversarias generativas](/RN2024-II/12%20Redes%20adversarias%20generativas.pdf)
 * [15.1 IA Generativa](/RN2024-II/15_1%20IAGenerativa.pdf)
