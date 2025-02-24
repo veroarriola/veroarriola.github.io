@@ -1,30 +1,30 @@
 # Redes Neuronales
 
+* [1.1 Sistema Nervioso](/RN2024-II/1_1%20SistemaNervioso.pdf)
+* [1.2 Neurona biológica](/RN2024-II/1_2%20NeuronaBiologica.pdf)
+* [1.3 Hodgkin Huxley](/RN2024-II/1_3%20HodgkinHuxley.pdf)
+* [2.1 Aprendizaje de máquina](/RN2024-II/2_1%20AprendizajeDeMaquina.pdf)
+* [2.2 Perceptrón](/RN2024-II/2_2%20Perceptron.pdf)
+* [2.3 Medidas de rendimiento](/RN2024-II/2_3%20MedidasDeRendimiento.pdf)
+* [3.1 Perceptrón multicapa](/RN2024-II/3_1%20PerceptronMulticapa.pdf)
+* [3.1.5 Aproximador Universal](/RN2024-II/3_1_5%20AproximadorUniversal.pdf)
+* [3.2 Entrenamiento](/RN2024-II/3_2%20Entrenamiento.pdf)
+* [3.3 Optimización del entrenamiento](/RN2024-II/3_3%20OptimizacionDelEntrenamiento.pdf)
+* [3.4 Desvanecimiento del gradiente](/RN2024-II/3_4%20DesvanecimientoDelGradiente.pdf)
+* [4.1 Entrenamiento con genéticos](/RN2024-II/4_1%20EntrenamientoConGeneticos.pdf)
+* [4.2 Neuroevolución Profunda](/RN2024-II/4_2%20NeuroevolucionProfunda.pdf)
+* [5.1 Mapeo Autoorganizado](/RN2024-II/5_1%20MapeoAutoorganizado.pdf)
+* [6.1 Convolucion](/RN2024-II/6_1%20Convolucion.pdf)
+* [6.2 Redes convolucionales](/RN2024-II/6_2%20Redes%20convolucionales.pdf)
+* [7.1 Visualización](/RN2024-II/7_1%20Visualizacion.pdf)
+* [7.2 Fourier](/RN2024-II/7_2%20Fourier.pdf)
+* [8.1 Redes recurrentes](/RN2024-II/8_1%20Redes%20recurrentes.pdf)
+* [9.1 Atención](/RN2024-II/9_1%20Atencion.pdf)
+* [9.2 Programador neural](/RN2024-II/9_2%20Programador%20neural.pdf)
+* [9.3 Transformadores](/RN2024-II/9_3%20Transformadores.pdf)
 * [10.1 Redes de Hopfield](/RN2024-II/10_1%20Redes%20de%20Hopfield.pdf)
-* '12 Redes adversarias generativas.pdf'
-* '3_1 PerceptronMulticapa.pdf'
-* '4_2 NeuroevolucionProfunda.pdf'
-* '8_1 Redes recurrentes.pdf'
-* '10_2 Maquinas de Boltzman.pdf'
-* '1_3 HodgkinHuxley.pdf'
-* '3_1_5 AproximadorUniversal.pdf'
-* '5_1 MapeoAutoorganizado.pdf'
-* '9_1 Atencion.pdf'
-* '10_3 Autocodificador Variacional.pdf'
-* '15_1 IAGenerativa.pdf'
-* '3_2 Entrenamiento.pdf'
-* '6_1 Convolucion.pdf'
-* '9_2 Programador neural.pdf'
-* '11 Redes sobre gráficas.pdf'
-* '2_1 AprendizajeDeMaquina.pdf'
-* '3_3 OptimizacionDelEntrenamiento.pdf'
-* '6_2 Redes convolucionales.pdf'
-* '9_3 Transformadores.pdf'
-* '1_1 SistemaNervioso.pdf'
-* '2_2 Perceptron.pdf'
-* '3_4 DesvanecimientoDelGradiente.pdf'
-* '7_1 Visualizacion.pdf'
-* '1_2 NeuronaBiologica.pdf'
-* '2_3 MedidasDeRendimiento.pdf'
-* '4_1 EntrenamientoConGeneticos.pdf'
-* '7_2 Fourier.pdf'
+* [10.2 Maquinas de Boltzman](/RN2024-II/10_2%20Maquinas%20de%20Boltzman.pdf)
+* [10.3 Autocodificador Variacional]10_3%20Autocodificador%20Variacional.pdf)
+* [11 Redes sobre gráficas](/RN2024-II/11%20Redes%20sobre%20gráficas.pdf)
+* [12 Redes adversarias generativas](/RN2024-II/12%20Redes%20adversarias%20generativas.pdf)
+* [15.1 IA Generativa](/RN2024-II/15_1%20IAGenerativa.pdf)

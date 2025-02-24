@@ -9,3 +9,4 @@
 * [Introducción a Ciencias de la Computación](/ICC2024-II/)
 * [Estructuras de Datos](/ED2024-II/)
 * [Inteligencia Artificial](/IA2024-II/)
+* [Redes Neuronales](/RN2024-II/)
