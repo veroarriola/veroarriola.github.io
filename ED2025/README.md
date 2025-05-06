@@ -10,6 +10,7 @@
 * [4.1 Correctez](/ED2025/CS%204_1%20Correctez.pdf)
 * [5.1 Recursión](/ED2025/CS%205_1%20Recursion.pdf)
 * [6.1 Arreglos](/ED2025/CS%206_1%20Arreglos.pdf)
+* [6.2 Polinomio de direccionamiento](/ED2025/6_2%20PolinomioDeDireccionamiento.pdf)
 * [G.1 Genéricos](/ED2025/CS%20G_1%20Genéricos.pdf)
 * [7.1 Colecciones](/ED2025/CS%207_1%20Colecciones.pdf)
 * [7.2 Pilas y colas](/ED2025/CS%207_2%20PilasYColas.pdf)
