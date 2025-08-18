@@ -3,6 +3,7 @@
 ## Versiones actuales para cursos presenciales
 * [Introducción a Ciencias de la Computación](/ICC2025/)
 * [Estructuras de Datos](/ED2025/)
+* [Inteligencia Artificial](/IA2025/)
 * [Robótica Móvil](/RM2025/)
 
 ## Versiones de los videos de YouTube durante la pandemia
