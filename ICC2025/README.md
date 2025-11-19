@@ -24,6 +24,7 @@
 
 
 Proximamente:
+
 * [8.2 Estados, Máquinas y Autómatas](/ICC2024-II/8_2 EstadosMaquinasAutomatas.pdf)
 * [9 Excepciones](/ICC2024-II/9 Excepciones.pdf)
 * [10 Flujos](/ICC2024-II/10 Flujos.pdf)
