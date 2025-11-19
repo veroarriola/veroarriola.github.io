@@ -15,14 +15,15 @@
 * [4.2 Implementacion con Bits](/ICC2025/4_2%20ImplementacionConBits.pdf)
 * [5.0 Algoritmos](/ICC2025/5_0%20Algoritmos.pdf)
 * [5.1 Estructuras de Control](/ICC2025/5_1%20EstructurasDeControl.pdf)
+* [5.2 Funciones](/ICC2025/5_2%20Funciones.pdf)
+* [5.3 Ejecución](/ICC2025/5_3%20Ejecución.pdf)
+* [5.4 Recursividad](/ICC2025/5_4%20Recursividad.pdf)
+* [6.1 Correctez en la ejecución de un programa](/ICC2025/6_1%20EjecuciónCorrectez.pdf)
+* [6.2 Correctez](/ICC2025/6_2%20Correctez.pdf)
+* [7.1 Arreglos](/ICC2025/7_1%20Arreglos.pdf)
+
 
 Proximamente:
-* [5.2 Funciones](/ICC2024-II/5_2 Funciones.pdf)
-* [5.3 Ejecución](/ICC2024-II/5_3 Ejecución.pdf)
-* [5.4 Correctez en la Ejecución de un Programa](/ICC2024-II/5_4 EjecucionCorrectez.pdf)
-* [6.1 Arreglos](/ICC2024-II/6_1 Arreglos.pdf)
-* [7.1 Recursividad](/ICC2024-II/7.1 Recursividad.pdf)
-* [7.2 Correctez](/ICC2024-II/7_2 Correctez.pdf)
 * [8.2 Estados, Máquinas y Autómatas](/ICC2024-II/8_2 EstadosMaquinasAutomatas.pdf)
 * [9 Excepciones](/ICC2024-II/9 Excepciones.pdf)
 * [10 Flujos](/ICC2024-II/10 Flujos.pdf)
