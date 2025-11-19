@@ -21,18 +21,16 @@
 * [6.1 Correctez en la ejecución de un programa](/ICC2025/6_1%20EjecuciónCorrectez.pdf)
 * [6.2 Correctez](/ICC2025/6_2%20Correctez.pdf)
 * [7.1 Arreglos](/ICC2025/7_1%20Arreglos.pdf)
+* [7.2 Enumeraciones](/ICC2025/7_2%20Enumeraciones.pdf)
+* [8 Estados, Máquinas y Autómatas](/ICC2025/8%20EstadosMaquinasAutomatas.pdf)
+* [9 Excepciones](/ICC2025/9 Excepciones.pdf)
+* [10 Flujos](/ICC2025/10 Flujos.pdf)
+* [11 Recursividad Estructural](/ICC2025/11 RecursividadEstructural.pdf)
+* [12.1 Funciones de Orden Alto](/ICC2025/12_1 FuncionesDeOrdenAlto.pdf)
+* [12.2 MVC](/ICC2025/12_2 MVC.pdf)
+* [12.3 JavaFX](/ICC2025/12_3 JavaFX.pdf)
+* [13.1 Genéricos en Java](/ICC2025/13_1 GenericosEnJava.pdf)
+* [14.1 Hilos](/ICC2025/14_1 Hilos.pdf)
+* [15.1 Enchufes](/ICC2025/15_1 Enchufes.pdf)
 
-
-Proximamente:
-
-* [8.2 Estados, Máquinas y Autómatas](/ICC2024-II/8_2 EstadosMaquinasAutomatas.pdf)
-* [9 Excepciones](/ICC2024-II/9 Excepciones.pdf)
-* [10 Flujos](/ICC2024-II/10 Flujos.pdf)
-* [11 Recursividad Estructural](/ICC2024-II/11 RecursividadEstructural.pdf)
-* [12.1 Funciones de Orden Alto](/ICC2024-II/12_1 FuncionesDeOrdenAlto.pdf)
-* [13.1 Genéricos en Java](/ICC2024-II/13_1 GenericosEnJava.pdf)
-* [14.1 Hilos](/ICC2024-II/14_1 Hilos.pdf)
-* [15.1 Enchufes](/ICC2024-II/15_1 Enchufes.pdf)
-* [16.1 MVC](/ICC2024-II/16_1 MVC.pdf)
-* [16.2 JavaFX](/ICC2024-II/16_2 JavaFX.pdf)
 
